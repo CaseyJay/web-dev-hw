@@ -1,0 +1,3 @@
+Web browsers send a request to a website. The website then provides a response. The rendering engine from the browser interprets the website and delivers the user interface and such to the user. The webs browser that I use most is Google Chrome it seems seamless each time I use it, and I can manage through my searches a little bit more easier to find what I am looking for. For example, I can search for images and their size, color, and type.
+
+HTML, SML, and XHTML, are markup languages used to view information in a browser, such as the design, fonts, and the way you interact with the web browser. One of the most common markup languages used is HTML. It is like a standard computer language used for web pages or browsers.
