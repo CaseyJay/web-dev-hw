@@ -7,6 +7,6 @@ Hi! I decided to take this course because it matches the pattern to obtain a bac
 
 [Favorite Website](https://yahoo.com)
 
-[My Response](./responses.txt)
+ [My Response](./responses.txt)
 
 ![My Screenshot](./images/atomscreenshot.png)
